@@ -22,9 +22,6 @@
 - [Uso](#-uso)
 - [Capturas de pantalla — Desktop](#-capturas-de-pantalla--desktop)
 - [Capturas de pantalla — Móvil](#-capturas-de-pantalla--móvil)
-- [Estructura del proyecto](#-estructura-del-proyecto)
-- [Autor](#-autor)
-
 ---
 
 ## 📖 Descripción
@@ -99,6 +96,7 @@ npx cap open android
 ### Tab 1 — Menú principal (Modo claro)
 <!-- Reemplaza la ruta con tu captura real -->
 ![Tab 1 Modo Claro](./screenshots/desktop/tab1-light.png)
+<img width="1366" height="768" alt="Captura de pantalla (89)" src="https://github.com/user-attachments/assets/f6b54115-5982-42dd-be99-1f514684eaf2" />
 
 <br>
 
