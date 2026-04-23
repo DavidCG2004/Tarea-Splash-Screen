@@ -162,5 +162,5 @@ npx cap open android
 ---
 
 <div align="center">
-  Hecho con ❤️ usando Ionic + Angular + Capacitor
+  Hecho usando Ionic + Angular + Capacitor
 </div>
