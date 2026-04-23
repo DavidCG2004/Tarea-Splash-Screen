@@ -1,0 +1,33 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Menu Principal</ion-title>
+
+    <!-- 🌙 Botón modo nocturno en la barra superior -->
+    <ion-buttons slot="end">
+      <ion-button (click)="toggleDarkMode()" fill="clear">
+        <ion-icon
+          slot="icon-only"
+          [name]="photoService.isDarkMode ? 'sunny-outline' : 'moon-outline'">
+        </ion-icon>
+      </ion-button>
+    </ion-buttons>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tab 1</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+  <div class="ion-padding">
+    <ion-button expand="block" (click)="mostrarAlerta()">
+      <ion-icon slot="start" name="alert-circle-outline"></ion-icon>
+      Mostrar Alerta
+    </ion-button>
+  </div>
+
+</ion-content>
