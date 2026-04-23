@@ -99,22 +99,16 @@ npx cap open android
 <br>
 
 ### Tab 1 — Menú principal (Modo oscuro)
-<!-- Reemplaza la ruta con tu captura real -->
-![Tab 1 Modo Oscuro](./screenshots/desktop/tab1-dark.png)
 <img width="1366" height="768" alt="Captura de pantalla (81)" src="https://github.com/user-attachments/assets/27b5ccc3-cddf-466e-8a3a-4a1a34cfcc2b" />
 
 <br>
 
 ### Tab 2 — Galería de fotos
-<!-- Reemplaza la ruta con tu captura real -->
-![Tab 2 Galería](./screenshots/desktop/tab2-gallery.png)
 <img width="1366" height="768" alt="Captura de pantalla (82)" src="https://github.com/user-attachments/assets/3a1f823c-9bf2-41e7-96bb-e76e76628b77" />
 
 <br>
 
 ### Tab 2 — Foto seleccionada (opciones visibles)
-<!-- Reemplaza la ruta con tu captura real -->
-![Tab 2 Selección](./screenshots/desktop/tab2-selected.png)
 <img width="1366" height="768" alt="Captura de pantalla (90)" src="https://github.com/user-attachments/assets/d79aa86b-826f-44c1-8ea4-a1958d6133a1" />
 <img width="1366" height="768" alt="Captura de pantalla (84)" src="https://github.com/user-attachments/assets/e4cc9945-52ff-4dd9-9045-51ac87ed18be" />
 <img width="1366" height="768" alt="Captura de pantalla (85)" src="https://github.com/user-attachments/assets/5f0a2fbc-63ed-4c17-8ece-0a2f5a0785cc" />
@@ -131,6 +125,8 @@ npx cap open android
 ### Splash Screen
 <!-- Reemplaza la ruta con tu captura real -->
 <img src="./screenshots/mobile/splash.jpg" width="250" alt="Splash Screen"/>
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (1)" src="https://github.com/user-attachments/assets/842e9501-2c2e-49d2-8df1-6976cb1b3549" />
+
 
 &nbsp;&nbsp;&nbsp;
 
