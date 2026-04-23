@@ -115,7 +115,6 @@ npx cap open android
 ---
 
 ## 📲 Capturas de pantalla — Móvil
-
 > Ejecutando la aplicación en dispositivo Android físico
 
 <br>
@@ -123,20 +122,17 @@ npx cap open android
 <div align="center">
 
 ### Splash Screen
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/splash.jpg" width="250" alt="Splash Screen"/>
-<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (1)" src="https://github.com/user-attachments/assets/842e9501-2c2e-49d2-8df1-6976cb1b3549" />
-
+<img src="https://github.com/user-attachments/assets/842e9501-2c2e-49d2-8df1-6976cb1b3549" width="180" alt="Splash Screen"/>
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 1 — Modo claro
-<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM" src="https://github.com/user-attachments/assets/1e532ada-7082-4d8d-9ca0-d7a01479abb1" />
+<img src="https://github.com/user-attachments/assets/1e532ada-7082-4d8d-9ca0-d7a01479abb1" width="180" alt="Tab 1 Modo claro"/>
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 1 — Modo oscuro
-<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (5)" src="https://github.com/user-attachments/assets/04066730-4429-4448-9d88-06975f402a4d" />
+<img src="https://github.com/user-attachments/assets/04066730-4429-4448-9d88-06975f402a4d" width="180" alt="Tab 1 Modo oscuro"/>
 
 </div>
 
@@ -145,21 +141,22 @@ npx cap open android
 <div align="center">
 
 ### Tab 2 — Galería vacía
-<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM" src="https://github.com/user-attachments/assets/aeaaa004-e72a-4e49-bfab-ca430a5c6fde" />
-
+<img src="https://github.com/user-attachments/assets/aeaaa004-e72a-4e49-bfab-ca430a5c6fde" width="180" alt="Tab 2 Galería vacía"/>
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 2 — Galería con fotos
-<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (6)" src="https://github.com/user-attachments/assets/e2bda484-a639-43bb-a1fb-a9a3f751d677" />
-
+<img src="https://github.com/user-attachments/assets/e2bda484-a639-43bb-a1fb-a9a3f751d677" width="180" alt="Tab 2 Galería con fotos"/>
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 2 — Foto seleccionada
-<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (3)" src="https://github.com/user-attachments/assets/8a131073-a3c6-444d-8fdd-21c726ca77a2" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (4)" src="https://github.com/user-attachments/assets/bd8c844f-e86d-49ad-a70b-7553f341e56d" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (6)" src="https://github.com/user-attachments/assets/50e82c6d-1bb3-48f2-9fa0-f33f044ca5e7" />
+<img src="https://github.com/user-attachments/assets/8a131073-a3c6-444d-8fdd-21c726ca77a2" width="180" alt="Tab 2 Foto seleccionada 1"/>
+&nbsp;
+<img src="https://github.com/user-attachments/assets/bd8c844f-e86d-49ad-a70b-7553f341e56d" width="180" alt="Tab 2 Foto seleccionada 2"/>
+&nbsp;
+<img src="https://github.com/user-attachments/assets/50e82c6d-1bb3-48f2-9fa0-f33f044ca5e7" width="180" alt="Tab 2 Foto seleccionada 3"/>
+
 </div>
 
 ---
