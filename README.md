@@ -61,7 +61,7 @@ Photo Gallery es una aplicación móvil desarrollada con **Ionic Framework**, **
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/photo-gallery.git
+git clone https://github.com/DavidCG2004/Tarea-Splash-Screen.git
 cd photo-gallery
 
 # 2. Instalar dependencias
