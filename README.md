@@ -131,8 +131,7 @@ npx cap open android
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 1 — Modo claro
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/tab1-light.jpg" width="250" alt="Tab 1 Claro"/>
+<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM" src="https://github.com/user-attachments/assets/1e532ada-7082-4d8d-9ca0-d7a01479abb1" />
 
 &nbsp;&nbsp;&nbsp;
 
