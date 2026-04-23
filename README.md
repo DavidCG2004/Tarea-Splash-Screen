@@ -136,8 +136,7 @@ npx cap open android
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 1 — Modo oscuro
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/tab1-dark.jpg" width="250" alt="Tab 1 Oscuro"/>
+<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (5)" src="https://github.com/user-attachments/assets/04066730-4429-4448-9d88-06975f402a4d" />
 
 </div>
 
@@ -146,21 +145,21 @@ npx cap open android
 <div align="center">
 
 ### Tab 2 — Galería vacía
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/tab2-empty.jpg" width="250" alt="Galería vacía"/>
+<img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM" src="https://github.com/user-attachments/assets/aeaaa004-e72a-4e49-bfab-ca430a5c6fde" />
+
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 2 — Galería con fotos
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/tab2-photos.jpg" width="250" alt="Galería con fotos"/>
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (6)" src="https://github.com/user-attachments/assets/e2bda484-a639-43bb-a1fb-a9a3f751d677" />
+
 
 &nbsp;&nbsp;&nbsp;
 
 ### Tab 2 — Foto seleccionada
-<!-- Reemplaza la ruta con tu captura real -->
-<img src="./screenshots/mobile/tab2-selected.jpg" width="250" alt="Foto seleccionada"/>
-
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (3)" src="https://github.com/user-attachments/assets/8a131073-a3c6-444d-8fdd-21c726ca77a2" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (4)" src="https://github.com/user-attachments/assets/bd8c844f-e86d-49ad-a70b-7553f341e56d" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-22 at 9 21 17 PM (6)" src="https://github.com/user-attachments/assets/50e82c6d-1bb3-48f2-9fa0-f33f044ca5e7" />
 </div>
 
 ---
