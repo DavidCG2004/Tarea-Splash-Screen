@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="Captura de pantalla (81)" src="https://github.com/user-attachments/assets/072784b0-3350-4e81-9658-f201593fed49" />
 # 📸 Photo Gallery App
 
 <div align="center">
