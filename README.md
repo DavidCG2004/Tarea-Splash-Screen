@@ -170,45 +170,6 @@ npx cap open android
 
 ---
 
-## 🗂️ Estructura del proyecto
-
-```
-src/
-├── app/
-│   ├── splash/
-│   │   ├── splash.component.ts
-│   │   ├── splash.component.html
-│   │   └── splash.component.scss
-│   ├── services/
-│   │   └── photo.service.ts       # Lógica central: cámara, dark mode, share, delete
-│   ├── tab1/
-│   │   ├── tab1.page.ts
-│   │   ├── tab1.page.html         # Botón modo nocturno + alerta
-│   │   └── tab1.page.scss
-│   ├── tab2/
-│   │   ├── tab2.page.ts
-│   │   ├── tab2.page.html         # Galería + selección + share + delete
-│   │   └── tab2.page.scss
-│   ├── app.component.ts           # Control del splash screen
-│   ├── app.component.html
-│   ├── app.module.ts
-│   └── app-routing.module.ts
-├── assets/
-│   ├── icon-only.png              # Ícono de la app (1024x1024)
-│   └── splash.png                 # Imagen base del splash (2732x2732)
-└── global.scss                    # Variables de dark mode
-```
-
----
-
-## 👤 Autor
-
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-
----
-
 <div align="center">
   Hecho con ❤️ usando Ionic + Angular + Capacitor
 </div>
